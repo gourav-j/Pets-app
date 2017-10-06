@@ -1,6 +1,6 @@
 # Pets-app
 
-Created this app while learning on Udacity.
+This app displays a list of pets and their related data that the user inputs. Used in a Udacity course in the Android Basics Nanodegree by Google.
 
 It is an useful app to manage the pets by adding some basic details about them.
 
